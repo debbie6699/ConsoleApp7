@@ -12,8 +12,9 @@ namespace ConsoleApp7
         {
 
             int j=10;
-            float k;
+            double k;
             k = j;
+            k = 0.5;
            
         }
     }
