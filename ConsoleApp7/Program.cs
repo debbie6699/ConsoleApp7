@@ -15,6 +15,8 @@ namespace ConsoleApp7
             double k;
             k = j;
             k = 0.5;
+            double g;
+            g=k;
            
         }
     }
